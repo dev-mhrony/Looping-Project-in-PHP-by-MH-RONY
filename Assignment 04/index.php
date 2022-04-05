@@ -15,7 +15,7 @@
         // You must use decrement operator
 
 
-    $input = 100 ;       // Here you have to input the maximum value or the value of a.
+    $input = 100 ;       // Here you have to input the maximum value or the value of "input".
 
     while ($input >= 1){
         echo "This Number is: $input" ;
