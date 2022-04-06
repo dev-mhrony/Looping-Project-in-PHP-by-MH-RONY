@@ -1,6 +1,20 @@
 <?php
 
 
+
+        // Question 03: 
+
+        // Factorial - I think everyone knows the word. Factorial of 4 is given below:
+
+        // 4! = 4*3*2*1 = 24
+
+        // 6! = 6*5*4*3*2*1 = 720  
+
+        // So let’s calculate the factorial of 7.
+
+
+
+
     // ========================================================= Case 01 ===============================================
 
 
