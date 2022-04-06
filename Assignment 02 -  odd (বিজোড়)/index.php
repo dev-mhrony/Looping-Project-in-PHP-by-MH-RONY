@@ -52,6 +52,9 @@
 
 // ===================================================Case 02=========================================================
 
+
+
+
     for($a = 2 ;  $a <=100 ;  $a++) {
         if ($a%2 != 0){                                     // If the quotient is 0, then it will be an even number. Not equal has been used for this.
             echo "The odd number is as follows : $a <br>";
@@ -62,7 +65,7 @@
 
 
 
-    
+
 
     // ----------------------------- Thank You ----------------------------------
 
