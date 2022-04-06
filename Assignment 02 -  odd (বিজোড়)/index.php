@@ -25,13 +25,44 @@
         // Here the value of a is taken as 1 which is because if 2 increments are made with its value then odd numbers are found.
 
 
+
+
+
+
+    // ===================================================Case 01=========================================================
+
+
+
+
+    /*
         
     for($a = 1 ;  $a <=100 ;  $a += 2) {        //2 is added to 1 to bring the odd number so that the odd number can be easily determined.
         echo "The odd number is as follows : $a";
         echo "<br>";                            // Note: <br> = It is used to apply brakes after a number.
+
+    }
+
+    */
+
+
+
+
+
+
+
+// ===================================================Case 02=========================================================
+
+    for($a = 2 ;  $a <=100 ;  $a++) {
+        if ($a%2 != 0){                                     // If the quotient is 0, then it will be an even number. Not equal has been used for this.
+            echo "The odd number is as follows : $a <br>";
+        }
+         
     }
 
 
+
+
+    
 
     // ----------------------------- Thank You ----------------------------------
 
